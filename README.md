@@ -53,7 +53,9 @@ some example in data/multispectral/
 some example in models/transformer/
 
 xxxx_transfomerx3_FLIR_aligned_dct_3.yaml
+
 xxxx_transfomerx3_FLIR_aligned_dct_res.yaml
+
 xxxx_transformerx3_llvip_dct.yaml
 
 ### Train Test and Detect

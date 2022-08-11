@@ -50,13 +50,13 @@ MHT weights
 some example in data/multispectral/
 
 #### Change the model cfg
-some example in models/transformer/
+some example in models/MHT/
 
-xxxx_transfomerx3_FLIR_aligned_dct_3.yaml
+xxxx_FLIR_aligned_dct_3.yaml
 
-xxxx_transfomerx3_FLIR_aligned_dct_res.yaml
+xxxx_FLIR_aligned_dct_res.yaml
 
-xxxx_transformerx3_llvip_dct.yaml
+xxxx__llvip_dct.yaml
 
 ### Train Test and Detect
 train: ``` python train.py```
